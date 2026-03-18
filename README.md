@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Back-end development on Boot.dev
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/98144103-da70-422c-96b3-b8a157e8c2f1/thumbnail" >
 </p>
