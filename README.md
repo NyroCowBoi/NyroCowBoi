@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Python and Git
+- 🌱 Would like to learn c++ in the future (and frontend related languages too)
 - 🔭 I’m currently working on small projects for myself
 
 <p align="left">
